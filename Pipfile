@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+groq = "*"
+phidata = "*"
+yfinance = "*"
+pydantic = "*"
+newspaper4k = "*"
+lxml-html-clean = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
